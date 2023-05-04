@@ -94,6 +94,16 @@ hr {
   margin-left: 3rem;
 }
 
+.obrazovanje > h5,
+.radno-iskustvo > h5 {
+  margin-bottom: 1.5rem;
+}
+.konobar {
+  margin-top: 1.5rem;
+}
+.obrazovanje > ul > li {
+  margin-top: 1.5rem;
+}
 /*MEDIA QUERY */
 
 @media screen and (max-width: 426px) {
